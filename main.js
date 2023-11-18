@@ -1,6 +1,6 @@
 import Typed from 'typed.js';
 import confetti from 'canvas-confetti';
-import SiriWave from "siriwave";
+
 
 
 
